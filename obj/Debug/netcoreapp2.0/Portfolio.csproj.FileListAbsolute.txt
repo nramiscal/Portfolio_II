@@ -1,0 +1,10 @@
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.deps.json
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.json
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.runtimeconfig.dev.json
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.dll
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/bin/Debug/netcoreapp2.0/Portfolio.pdb
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.csproj.CoreCompileInputs.cache
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfoInputs.cache
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.AssemblyInfo.cs
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.dll
+/Users/nramiscal/Desktop/CSharp/MVC/Portfolio/obj/Debug/netcoreapp2.0/Portfolio.pdb
